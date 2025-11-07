@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Merhaba, ben İlayda Değer
+## 👋 Merhaba, ben İlayda Değer
 
 💡 **Sürekli öğrenmeyi seven, keşfetmeye meraklı bir geliştiriciyim.**  
 🎮 Unity oyun geliştirme ile başladım; zamanla optimizasyon, yapay zekâ, yazılım mimarisi ve bilimsel hesaplama gibi alanlarda da kendimi geliştiriyorum.  
