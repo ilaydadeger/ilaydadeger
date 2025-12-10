@@ -31,6 +31,29 @@
 - 3D Modelleme ve Görselleştirme  
 
 ---
+🔬 Bilimsel Hesaplama Çalışmalarım
+
+Bilimsel Hesaplama dersi kapsamında; görüntü işleme, sinyal işleme, zaman serisi tahmini ve GPU hızlandırma gibi alanlarda çeşitli projeler geliştirdim.
+Bu çalışmalar hem mühendislik pratiği hem de veri bilimi perspektifiyle ele alınmıştır.
+
+📌 İçerdiği Projeler
+
+🖼️ Görüntü Gürültü Giderme (Gaussian, Median, Bilateral Filters)
+Gürültülü görüntüler üzerinde filtre performanslarını MSE ve PSNR metrikleriyle karşılaştırdım.
+
+📈 Makine Öğrenmesi ile Zaman Serisi Tahmini (LSTM vs ARIMA)
+LSTM ve ARIMA modellerini karşılaştırarak zaman serisi tahmini doğruluklarını analiz ettim.
+
+🔊 Audio Signal Processing — FFT + Wiener Filter ile Ses Gürültü Temizleme
+Ses sinyallerini frekans uzayında işleyerek gürültüyü azaltma çalışması yaptım.
+
+⚡ GPU hızlandırmalı NumPy (CuPy) Benchmark Çalışması
+CPU ve GPU tabanlı bilimsel hesaplamalar arasında performans farklarını gösterdim.
+
+🛠 Kullanılan Teknolojiler
+
+Python • NumPy • Pandas • Matplotlib • OpenCV • SciPy • TensorFlow/Keras • Statsmodels • Librosa • CuPy
+------------
 
 ### ✨ Hakkımda
 🎓 Muğla Sıtkı Koçman Üniversitesi öğrencisiyim.  
