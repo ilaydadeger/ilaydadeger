@@ -1,59 +1,63 @@
-## 👋 Merhaba, ben İlayda Değer
+# 👋 Merhaba, ben İlayda Değer
 
-💡 **Sürekli öğrenmeyi seven, keşfetmeye meraklı bir geliştiriciyim.**  
-🎮 Unity oyun geliştirme ile başladım; zamanla optimizasyon, yapay zekâ, yazılım mimarisi ve bilimsel hesaplama gibi alanlarda da kendimi geliştiriyorum.  
-🌱 Şu anda hem oyun projeleri hem de farklı yazılım alanlarında deneyim kazanıyorum.
-
----
-
-### 🚀 Üzerinde çalıştığım projeler
-- 🧩 [Tetris-Prototype](https://github.com/ilaydadeger/Tetris-Prototype) — Klasik tetris oyununun Unity versiyonu  
-- ⚙️ [TopPlatform-Prototype](https://github.com/ilaydadeger/TopPlatform-Prototype) — Fizik tabanlı top platform oyunu  
-- 🔋 [DevreOyunu-Prototype](https://github.com/ilaydadeger/DevreOyunu-Prototype) — Devre temalı FPS oyun prototipi  
+💡 Sürekli öğrenmeyi seven, keşfetmeye meraklı bir geliştiriciyim.  
+🎮 Unity oyun geliştirme ile başladım; zamanla optimizasyon, yapay zekâ, yazılım mimarisi ve bilimsel hesaplama alanlarında da kendimi geliştirdim.  
+📊 Aynı zamanda veri analizi, makine öğrenmesi, zaman serileri ve çok değişkenli istatistiksel modeller üzerine projeler geliştiriyorum.  
+🚀 Hem oyun geliştirme hem de yazılımın diğer alanlarında çeşitli projelerle deneyim kazanmaya devam ediyorum.
 
 ---
 
-### 🧰 Kullandığım Teknolojiler ve Araçlar
-🎮 **Unity (URP/HDRP)**  
-💻 **C#**, Python, Java Script
-🧠 **Yapay Zekâ & Optimizasyon Algoritmaları**  
-🎨 **Blender**, Photoshop, Canva  
-🌐 Git • GitHub • Visual Studio • VS Code  
+## 🚧 Üzerinde Çalıştığım / Tamamladığım Projeler
+
+### 🎮 **Oyun Geliştirme – Unity**
+- 🧩 **[Tetris-Prototype](https://github.com/ilaydadeger/Tetris-Prototype)** — Klasik tetris oyununun Unity versiyonu  
+- 🟦 **[TopPlatform-Prototype](https://github.com/ilaydadeger/TopPlatform-Prototype)** — Fizik tabanlı top platform oyunu  
+- ⚡ **[DevreOyunu-Prototype](https://github.com/ilaydadeger/DevreOyunu-Prototype)** — Devre temalı FPS mini oyun prototipi (AI, görev sistemi, panel mini games)
 
 ---
 
-### 📚 İlgi Alanlarım
-- Oyun Programlama  
-- Yapay Zekâ (AI)  
-- Zeki Optimizasyon Teknikleri  
-- Bilimsel Hesaplama  
-- Yazılım Tasarımı ve Mimarisi  
-- 3D Modelleme ve Görselleştirme  
+## 📊 Veri Analizi & Bilimsel Hesaplama Projeleri
+
+- 📈 **[COVID-19 Time Series Analysis](https://github.com/ilaydadeger/covid_time_series_analysis)**  
+  Zaman serisi analizi, hareketli ortalama, ARIMA modeli, büyüme oranları, çoklu ülke karşılaştırma grafikleri  
+- 🤖 **[Sales Forecasting – Linear vs LSTM](https://github.com/ilaydadeger/sales_forecasting_lstm_vs_linear)**  
+  Makine öğrenmesi + derin öğrenme ile satış tahmini, LSTM ve regresyon karşılaştırması, loss eğrileri  
+- 🌍 **[World Happiness Multivariate Analysis](https://github.com/ilaydadeger/world_happiness_multivariate_analysis)**  
+  GDP, özgürlük, sosyal destek gibi değişkenlerin mutluluk skoruyla ilişkisi; korelasyon heatmap, regresyon modeli  
+- 🧪 **Scientific Computing Projects (24 Proje)**  
+  - Görüntü işleme (Gaussian, Median, Bilateral filtreler)  
+  - Zaman serileri (LSTM & ARIMA)  
+  - FFT ile ses gürültü temizleme  
+  - CuPy GPU benchmark  
+  - Monte Carlo, SVD görüntü sıkıştırma vb.
 
 ---
-🔬 Bilimsel Hesaplama Çalışmalarım
 
-Bilimsel Hesaplama dersi kapsamında; görüntü işleme, sinyal işleme, zaman serisi tahmini ve GPU hızlandırma gibi alanlarda çeşitli projeler geliştirdim.
-Bu çalışmalar hem mühendislik pratiği hem de veri bilimi perspektifiyle ele alınmıştır.
+## 🛠️ Kullandığım Teknolojiler ve Araçlar
 
-📌 İçerdiği Projeler
+### 🎮 **Oyun Geliştirme**
+- Unity (URP / HDRP)  
+- C#, Shader Graph, Fizik sistemleri  
+- Yapay zekâ: durum makineleri, görev mantığı, NavMesh AI  
 
-🖼️ Görüntü Gürültü Giderme (Gaussian, Median, Bilateral Filters)
-Gürültülü görüntüler üzerinde filtre performanslarını MSE ve PSNR metrikleriyle karşılaştırdım.
+### 🧠 **Yapay Zekâ & Veri Bilimi**
+- Python, NumPy, Pandas, Matplotlib, Seaborn  
+- Scikit-learn, TensorFlow (CPU), LSTM modelleri  
+- Veri görselleştirme & istatistiksel analiz
 
-📈 Makine Öğrenmesi ile Zaman Serisi Tahmini (LSTM vs ARIMA)
-LSTM ve ARIMA modellerini karşılaştırarak zaman serisi tahmini doğruluklarını analiz ettim.
+### 🎨 **Tasarım / Araçlar**
+- Blender, Photoshop, Canva  
+- Git · GitHub · VS Code · Jupyter Notebook  
 
-🔊 Audio Signal Processing — FFT + Wiener Filter ile Ses Gürültü Temizleme
-Ses sinyallerini frekans uzayında işleyerek gürültüyü azaltma çalışması yaptım.
+---
 
-⚡ GPU hızlandırmalı NumPy (CuPy) Benchmark Çalışması
-CPU ve GPU tabanlı bilimsel hesaplamalar arasında performans farklarını gösterdim.
+## 🌱 İlgi Alanlarım
+- Yapay zekâ ve optimizasyon algoritmaları  
+- Fizik tabanlı oyun mekaniği geliştirme  
+- Bilimsel hesaplama ve veri modelleme  
+- Oyun tasarımı & UI/UX  
 
-🛠 Kullanılan Teknolojiler
-
-Python • NumPy • Pandas • Matplotlib • OpenCV • SciPy • TensorFlow/Keras • Statsmodels • Librosa • CuPy
-------------
+---
 
 ### ✨ Hakkımda
 🎓 Muğla Sıtkı Koçman Üniversitesi öğrencisiyim.  
