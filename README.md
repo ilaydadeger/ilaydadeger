@@ -1,80 +1,64 @@
-# 👋 Merhaba, ben İlayda Değer
+**İLAYDA DEĞER**  
+**Bilişim Sistemleri Mühendisi**
 
-💡 Sürekli öğrenmeyi seven, keşfetmeye meraklı bir geliştiriciyim.  
-🎮 Unity oyun geliştirme ile başladım; zamanla optimizasyon, yapay zekâ, yazılım mimarisi ve bilimsel hesaplama alanlarında da kendimi geliştirdim.  
-📊 Aynı zamanda veri analizi, makine öğrenmesi, zaman serileri ve çok değişkenli istatistiksel modeller üzerine projeler geliştiriyorum.  
-🚀 Hem oyun geliştirme hem de yazılımın diğer alanlarında çeşitli projelerle deneyim kazanmaya devam ediyorum.
+Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği son sınıf öğrencisiyim. Yazılım geliştirme süreçlerine Unity tabanlı sistem mimarileri ile başlayıp; profesyonel stajlarım ve projelerimle modern web teknolojileri (Laravel, Pure PHP), veri bilimi ve ağ altyapısı alanlarında deneyim kazandım. Mühendislik disipliniyle; verimli backend mimarileri kurma, ağ yönetimi ve veriye dayalı çözüm üretme konularında yetkinlik sahibiyim.
 
 ---
 
-## 🚧 Üzerinde Çalıştığım / Tamamladığım Projeler
+**TEKNİK YETKİNLİKLER**
 
-### 🎮 **Oyun Geliştirme – Unity**
-- 🧩 **[Tetris-Prototype](https://github.com/ilaydadeger/Tetris-Prototype)** — Klasik tetris oyununun Unity versiyonu  
-- 🟦 **[TopPlatform-Prototype](https://github.com/ilaydadeger/TopPlatform-Prototype)** — Fizik tabanlı top platform oyunu  
-- ⚡ **[DevreOyunu-Prototype](https://github.com/ilaydadeger/DevreOyunu-Prototype)** — Devre temalı FPS mini oyun prototipi (AI, görev sistemi, panel mini games)
+**Web Geliştirme ve Backend**  
+* **Frameworkler & Diller:** Laravel, Pure PHP, SQL, Python, C#, HTML5, CSS3, JavaScript  
+* **Sistem Yönetimi:** Veri tabanı optimizasyonu, API geliştirme, Backend mimari iyileştirmeleri  
+* **Tasarım:** Modern UI/UX yaklaşımları, Responsive Tasarım, Arayüz Modernizasyonu  
 
----
+**Ağ ve Donanım Yönetimi**  
+* **Altyapı:** Fiziksel ağ bağlantıları, Switch yönetimi, Ağ altyapı kurulumu  
+* **Donanım:** Teknik servis süreçleri, donanım bakımı ve arıza tespiti  
 
-## 📊 Veri Analizi & Bilimsel Hesaplama Projeleri
+**Oyun Geliştirme (Unity)**  
+* **Sistemler:** NavMesh AI, State Machines, Fizik Tabanlı Mekanikler, Shader Graph  
+* **Render:** URP, HDRP  
 
-- 📈 **[COVID-19 Time Series Analysis](https://github.com/ilaydadeger/covid_time_series_analysis)**  
-  Zaman serisi analizi, hareketli ortalama, ARIMA modeli, büyüme oranları, çoklu ülke karşılaştırma grafikleri  
-- 🤖 **[Sales Forecasting – Linear vs LSTM](https://github.com/ilaydadeger/sales_forecasting_lstm_vs_linear)**  
-  Makine öğrenmesi + derin öğrenme ile satış tahmini, LSTM ve regresyon karşılaştırması, loss eğrileri  
-- 🌍 **[World Happiness Multivariate Analysis](https://github.com/ilaydadeger/world_happiness_multivariate_analysis)**  
-  GDP, özgürlük, sosyal destek gibi değişkenlerin mutluluk skoruyla ilişkisi; korelasyon heatmap, regresyon modeli  
-- 🧪 **Scientific Computing Projects (24 Proje)**  
-  - Görüntü işleme (Gaussian, Median, Bilateral filtreler)  
-  - Zaman serileri (LSTM & ARIMA)  
-  - FFT ile ses gürültü temizleme  
-  - CuPy GPU benchmark  
-  - Monte Carlo, SVD görüntü sıkıştırma vb.
+**Veri Bilimi ve Yapay Zeka**  
+* **Modelleme:** Derin Öğrenme (LSTM), Zaman Serileri (ARIMA), Çok Değişkenli İstatistiksel Analiz  
+* **Kütüphaneler:** NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler ve Araçlar
+**DENEYİM**
 
-### 🎮 **Oyun Geliştirme**
-- Unity (URP / HDRP)  
-- C#, Shader Graph, Fizik sistemleri  
-- Yapay zekâ: durum makineleri, görev mantığı, NavMesh AI  
+**Cef Medya Yazılım** | **Stajyer Yazılım Geliştirici**
 
-### 🧠 **Yapay Zekâ & Veri Bilimi**
-- Python, NumPy, Pandas, Matplotlib, Seaborn  
-- Scikit-learn, TensorFlow (CPU), LSTM modelleri  
-- Veri görselleştirme & istatistiksel analiz
+* **QR Menü Sistemi:** Laravel ve Pure PHP kullanılarak işletmeler için dinamik içerik yönetimine sahip QR menü platformu geliştirildi.  
+* **Ekip Görev Yönetim Platformu:** Departman içi iş akışını koordine eden, görev atama ve takip süreçlerini dijitalleştiren web tabanlı platform oluşturuldu.  
+* **Arayüz Modernizasyonu (UI/UX):** Mevcut web uygulamalarının kullanıcı deneyimini artırmak amacıyla arayüz yenileme ve responsive tasarım çalışmaları yapıldı.  
+* **Backend Bakım ve Optimizasyon:** Mevcut sistemlerin veritabanı sorguları ve backend mimarisi üzerinde hata ayıklama (debugging) ve performans iyileştirmeleri gerçekleştirildi.  
 
-### 🎨 **Tasarım / Araçlar**
-- Blender, Photoshop, Canva  
-- Git · GitHub · VS Code · Jupyter Notebook  
+**MSKÜ Bilgi İşlem Daire Başkanlığı** | **Stajyer Mühendis**
+
+* **Ağ Altyapı Yönetimi:** Bilgisayar ve Switch sistemleri arasında fiziksel ağ bağlantılarının kurulması ve ağ altyapısının yönetimi süreçlerinde yer alındı.  
+* **Teknik Servis ve Donanım:** Kurum bünyesindeki donanım birimlerinin bakımı, teknik servis süreçleri ve donanım arıza müdahaleleri yürütüldü.  
 
 ---
 
-## 🌱 İlgi Alanlarım
-- Yapay zekâ ve optimizasyon algoritmaları  
-- Fizik tabanlı oyun mekaniği geliştirme  
-- Bilimsel hesaplama ve veri modelleme  
-- Oyun tasarımı & UI/UX  
+**PROJELER**
+
+**Web Geliştirme**
+* **QR Menu Project:** Pure PHP ile geliştirilen, restoran ve işletmeler için özelleştirilebilir, dinamik veritabanı yönetimli ve mobil uyumlu dijital menü sistemi.
+
+**Veri Analizi ve Bilimsel Hesaplama**  
+* **Sales Forecasting (LSTM vs Linear):** Derin öğrenme ve geleneksel modellerle satış tahmini analizi.  
+* **Scientific Computing Portfolio:** Görüntü işleme, FFT sinyal analizi ve istatistiksel modellemeyi içeren 24 farklı mühendislik projesi.  
+* **World Happiness Analysis:** Sosyo-ekonomik faktörlerin mutluluk skorları üzerindeki etkisinin çok değişkenli regresyon modelleriyle incelenmesi.  
+
+**Oyun Geliştirme (Unity)**  
+* **DevreOyunu-Prototype:** AI sistemleri ve karmaşık görev mantıklarını barındıran FPS prototipi.  
+* **Tetris-Prototype:** Nesne yönelimli programlama (OOP) prensipleriyle optimize edilmiş klasik oyun mimarisi.  
 
 ---
 
-### ✨ Hakkımda
-🎓 Muğla Sıtkı Koçman Üniversitesi öğrencisiyim.  
-💬 Hem teknik hem de yaratıcı yönümü geliştirmeye çalışıyorum.  
-📖 Yeni teknolojileri öğrenmek, deneyerek üretmek ve paylaşmak en sevdiğim şeylerden biri.
+**EĞİTİM**
 
-<!--
-**ilaydadeger/ilaydadeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Lisans:** Muğla Sıtkı Koçman Üniversitesi, Bilişim Sistemleri Mühendisliği (2022 - 2026)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
