@@ -1,7 +1,7 @@
 **İLAYDA DEĞER**  
 **Bilişim Sistemleri Mühendisi**
 
-Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği son sınıf öğrencisiyim. Yazılım geliştirme süreçlerine Unity tabanlı sistem mimarileri ile başlayıp; profesyonel stajlarım ve projelerimle modern web teknolojileri (Laravel, Pure PHP), veri bilimi ve ağ altyapısı alanlarında deneyim kazandım. Mühendislik disipliniyle; verimli backend mimarileri kurma, ağ yönetimi ve veriye dayalı çözüm üretme konularında yetkinlik sahibiyim.
+Muğla Sıtkı Koçman Üniversitesi Bilişim Sistemleri Mühendisliği mezunuyum. Yazılım geliştirme süreçlerine Unity tabanlı sistem mimarileri ile başlayıp; profesyonel stajlarım ve projelerimle modern web teknolojileri (Laravel, Pure PHP), veri bilimi ve ağ altyapısı alanlarında deneyim kazandım. Mühendislik disipliniyle; verimli backend mimarileri kurma, ağ yönetimi ve veriye dayalı çözüm üretme konularında yetkinlik sahibiyim.
 
 ---
 
